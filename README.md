@@ -1,19 +1,23 @@
-# Hi, I’m Michael!  
+# Hi, I’m Michael
 
-### Developer | UI Designer | Anime & Game Enthusiast  
+Software engineer building thoughtful products with **React**, **TypeScript**, **Node.js**, **PostgreSQL**, and **AI**, with a strong focus on clean UI and thoughtful user experiences.
 
-I build engaging web & game experiences with **React**, **TypeScript**, **Node.js + Express**, **PostgreSQL**, and design sleek UIs with **Figma**.  
+## Currently Building
 
-## Projects  
-- [Git-Reflect](https://github.com/florbydev/Git-Reflect) – Productivity tools for your Git workflow  
-- [Chimelo](https://github.com/florbydev/Chimelo) – Playful code & creativity  
-- [Pikpok](https://github.com/florbydev/Pikpok) – Snappy UI experiments  
+**Sketchy** — a wireframing app for quickly exploring, refining, and communicating interface ideas.
 
-## Fun Facts  
-- UI designer for games & web  
-- Anime & gaming fan  
-- Love exploring new cultures  
+## Tech
 
-[Portfolio](https://starlit-speculoos-26801d.netlify.app/)  
+React · TypeScript · Node.js · Express · PostgreSQL · AI · Figma
 
-> _“Code is my canvas. Design is my game.”_  
+## Projects
+
+* [Git-Reflect](https://github.com/florbydev/Git-Reflect) — Productivity tools for your Git workflow
+* [Chimelo](https://github.com/florbydev/Chimelo) — Experiments in code and creativity
+* [Pikpok](https://github.com/florbydev/Pikpok) — UI experiments and interactions
+
+## About
+
+I enjoy building polished software, designing intuitive interfaces, and exploring new ideas across web, games, and AI.
+
+[Portfolio](https://starlit-speculoos-26801d.netlify.app/)
